@@ -2,7 +2,7 @@
 
 import UIKit
 
-for i in 0...50{
+for i in 0...100{
     if (((i % 5) == 0) && (i > 4)) {
         print("\(i)\tel número + \"Bingo!!!\"")
     }
